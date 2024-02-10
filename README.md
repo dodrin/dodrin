@@ -1,5 +1,6 @@
 # Hello, nice to see you 👋
 I'm Rina, Full Stack Web Developer. I'm currently working for a not-for-profit organization to support people in need in the local community and dedicated to community support. I'm interested in development and design and would love to use newly gained skills to make the world better✨
+When I'm not coding, i love spending time hiking, rock climbing, skiing, mountain biking etc all sorts of activity in the nature🏔🧗‍♀️⛷🚵‍♀️🥾
 
 ## 🌟 I have experience in:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
