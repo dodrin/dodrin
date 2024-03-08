@@ -16,7 +16,7 @@ When I'm not coding, i love spending time hiking, rock climbing, skiing, mountai
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel))
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
 ## 🌱 I’m currently learning:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript)
