@@ -1,7 +1,7 @@
 # Hello, nice to see you 👋
 Hi I'm Rina, a full stack developer working in a marketing team, and I love solving bugs and building accessible user interfaces. Right now, I'm diving into frontend animation to make the web more fun and interactive.
 
-When I'm not coding, i love spending time hiking, rock climbing, skiing, mountain biking etc all sorts of activity in the nature🏔🧗‍♀️⛷🚵‍♀️🥾
+When I'm not coding, I love spending time hiking, rock climbing, skiing, mountain biking etc all sorts of activity in the nature🏔🧗‍♀️⛷🚵‍♀️🥾
 
 ## 🌟 I have experience in:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -29,5 +29,6 @@ When I'm not coding, i love spending time hiking, rock climbing, skiing, mountai
 
 ## 📫 How to reach me:
 I am open to corraborative projects. Feel free to reach me out
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rina-inada/)
 [![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/1095014046417289249)
