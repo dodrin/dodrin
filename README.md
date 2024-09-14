@@ -1,5 +1,6 @@
 # Hello, nice to see you 👋
-I'm Rina, Full Stack Web Developer. I'm currently working for a not-for-profit organization to support people in need in the local community and dedicated to community support. I'm interested in development and design and would love to use newly gained skills to make the world better✨
+Hi I'm Rina, a full stack developer working in a marketing team, and I love solving bugs and building accessible user interfaces. Right now, I'm diving into frontend animation to make the web more fun and interactive.
+
 When I'm not coding, i love spending time hiking, rock climbing, skiing, mountain biking etc all sorts of activity in the nature🏔🧗‍♀️⛷🚵‍♀️🥾
 
 ## 🌟 I have experience in:
@@ -17,11 +18,16 @@ When I'm not coding, i love spending time hiking, rock climbing, skiing, mountai
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![MailChimp](https://img.shields.io/badge/-MailChimp-black?style=square&logo=mailchimp)
+![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=square&logo=wordpress)
+![GSAP](https://img.shields.io/badge/-GSAP-black?style=square&logo=greensock)
 
 ## 🌱 I’m currently learning:
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=plastic&logo=next.js)
+![PHP](https://img.shields.io/badge/-php-black?style=square&logo=php)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=square&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=square&logo=next.js)
 
 ## 📫 How to reach me:
+I am open to corraborative projects. Feel free to reach me out
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rina-inada/)
 [![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/1095014046417289249)
