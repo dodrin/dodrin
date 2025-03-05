@@ -1,5 +1,5 @@
 # Hello, nice to see you 👋
-Hi I'm Rina, a full stack developer working in a marketing team, and I love solving bugs and building accessible user interfaces. Right now, I'm diving into frontend animation to make the web more fun and interactive.
+Hi I'm Rina, a full stack developer. I love solving bugs and building accessible user interfaces.
 
 When I'm not coding, I love spending time hiking, rock climbing, skiing, mountain biking etc all sorts of activity in the nature🏔🧗‍♀️⛷🚵‍♀️🥾
 
